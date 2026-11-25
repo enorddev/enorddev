@@ -1,8 +1,10 @@
-![Banner](https://user-images.githubusercontent.com/92110494/194723726-1a24f9d6-cff8-4b16-b978-04f27497702f.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3b82f6&height=200&section=header&text=Edwin%20Nord&fontSize=48&fontColor=ffffff&desc=Software%20Developer%20%C2%B7%20Montreal&descSize=18&descAlignY=65&animation=fadeIn" alt="Edwin Nord, Software Developer" />
+</p>
 
 ### Hi, I'm Edwin 👋
 
-Web Developer based in Montreal, Canada 🇨🇦 · Bilingual (English / French)
+Software Developer based in Montreal, Canada 🇨🇦 · Bilingual (English / French)
 
 I build fast, accessible websites and React apps, using AI to ship faster without cutting corners.
 
